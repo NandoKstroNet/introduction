@@ -1,5 +1,7 @@
-#Introduction
-============
+#PHPatterns\Introduction
+========================
+
+PHPatterns is a project to show the use a several Design Patterns in PHP. All Design Patterns must be based on five design principles.
 
 An intruduction about object oriented design principles and patterns
 
