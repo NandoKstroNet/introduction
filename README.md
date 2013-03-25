@@ -1,9 +1,11 @@
-#Introduction
-============
+#PHPatterns\Introduction
+========================
 
-An intruduction about object oriented design principles and patterns
+PHPatterns is a project to show the use a several Design Patterns in PHP. All Design Patterns must be based on five design principles called SOLID.
 
-##Solid:
+
+##Solid
+=======
 
 ###Single responsibility principle
 
